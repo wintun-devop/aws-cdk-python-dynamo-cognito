@@ -1,0 +1,14 @@
+attrs==24.3.0
+aws-cdk.cloud-assembly-schema==1.204.0
+aws-cdk.core==1.204.0
+aws-cdk.cx-api==1.204.0
+aws-cdk.region-info==1.204.0
+cattrs==24.1.2
+constructs==3.4.344
+importlib_resources==6.4.5
+jsii==1.105.0
+publication==0.0.3
+python-dateutil==2.9.0.post0
+six==1.17.0
+typeguard==2.13.3
+typing_extensions==4.12.2
