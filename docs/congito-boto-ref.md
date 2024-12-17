@@ -1,0 +1,1 @@
+- https://github.com/parisnakitakejser/video-tutorial-python-code/blob/main/aws/Cognito/4-reset-user-password-and-change-the-password/change_password.py
